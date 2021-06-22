@@ -20,4 +20,4 @@ spec:
                 port:
                   number: 80
             path: "/"
-      host: nexus-jx.change.me
+      host: nexus-jx.35.232.191.78.nip.io

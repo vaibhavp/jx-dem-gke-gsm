@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - vaibhavp/jx-dem-gke-gsm
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.35.232.191.78.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
